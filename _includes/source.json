@@ -31,10 +31,7 @@
           "localizedDescription": "this is a test",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
           "size": 9300000
-        }
-      ],
-      
-      "versions": [
+        },
         {
           "version": "0.5.8",
           "date": "2024-9-07T18:30:00Z",
