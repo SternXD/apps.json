@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "version": "0.5.10",
-      "versionDate": "2024-9-07T18:30:00Z",
+      "versionDate": "2024-9-16T18:30:00Z",
       "versionDescription": "this is a test",
       "beta": true,
       "size": 9300000,
@@ -27,7 +27,7 @@
       "versions": [
         {
           "version": "0.5.10",
-          "date": "2024-9-07T18:30:00Z",
+          "date": "2024-9-16T18:30:00Z",
           "localizedDescription": "this is a test",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
           "size": 9300000
